@@ -1,5 +1,5 @@
 # -statistics-Medical-Data-analysis
-Concept covered: Statistics, ETL, Microsoft azure notebooks
+Concept covered: Statistics, ETL, Microsoft azure notebooks, cloud
 subject: Mcahine learning
 sem: 5th
 Group number: 02
