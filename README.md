@@ -1,4 +1,5 @@
 Statistics-Medical-Data-analysis
+Group Project
 Concept covered: Statistics, ETL, Google colab, cloud
 subject: Mcahine learning
 sem: 5th
@@ -22,6 +23,7 @@ building ETL for our problem->
 1. Extract
    The data set comes from the World health organisation and it records the number of confirmed tuberculosis cases by country, year, and demographic group.
    the demographic groups are broken down by sex and age.
+   Datasets extracted is tb.csv
 
 2. Transform
    we have used google colab and juypter notebook to perform data cleaning, visualising and analysis on the tb.csv dataset file.
